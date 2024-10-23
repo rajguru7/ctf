@@ -1,0 +1,3 @@
+[submodule "osiris-recruit"]
+	path = osiris-recruit
+	url = git@github.com:rajguru7/osiris-recruit.git

@@ -1,0 +1,6 @@
+.DS_Store
+*.swp
+.python-version
+*.ovpn
+# don't need have a lock file for this repo
+requirements.txt 
